@@ -1,3 +1,6 @@
+This is a tamplate that will be completely customized to suite my portfolio needs, but I give HTML5up credit for designing such a brilliant website and for having some of my favorite web designs. I enjoy a lot of their templates and highly suggest any client to check them out for finding good templates. I also suggest signing up for the subscription to get even more designs.
+ -Matthew Morais
+
 Dimension by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
